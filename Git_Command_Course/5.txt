@@ -1,0 +1,22 @@
+** git branch **
+
+master => our project in pc
+origin => project on github, gitlab, any server, ...ect 
+
+========================================================================
+
+** git remote -v **
+
+The result is :
+origin  https://github.com/AliAhmad777/Git_Course.git (fetch)
+
+========================================================================
+
+** git push **
+** git push RemoteName BranchName 
+** git push origin HEAD:main ** [ هاد الامر يلي اشتغل معي]
+
+Example :
+
+git push origin master ** [هاد الامر ما اشتغل معي] [من كورس الزيرو]
+git push origin HEAD:main ** [من ستاك اوفر فلو] [ هاد الامر يلي اشتغل معي]

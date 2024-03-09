@@ -1,0 +1,25 @@
+** git statuse ** 
+
+show the statuse of files if they track or not
+
+========================================================================
+
+** git add **
+
+add file to staging area 
+example:
+
+git add css\main.css index.html
+--or--
+git add *
+to add all files 
+
+========================================================================
+
+-- git reset head * --
+return all file to working directory
+
+========================================================================
+git commit -m "small description of what you do"
+example:
+git commit -m "bulding the stucture of project"
