@@ -1,0 +1,17 @@
+** git pull origin **
+
+Use this command to download the latest modifications made to the project by the rest of the members on the server
+ 
+استخدم هذا الأمر لتنزيل آخر التعديلات التي تم إجراؤها على المشروع من قبل بقية الاعضاء على الخادم
+----------------------
+
+This command is a combination of two commands together:
+امر ال git pull هو دمج لهذين الامرين :
+
+
+1- git fetsh
+
+هذا الامر بجيب التعديلات الجديدة الموجودة في الريموت ريبو 
+
+2- git mearg
+هذا الامر بيدمج الشغلات الموجود في الريموت ويبو مع اللوكل تبعي
